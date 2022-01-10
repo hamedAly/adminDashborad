@@ -1,0 +1,11 @@
+D:\hamed\pracitce\adminDashborad\adminWeb\Domain\bin\Debug\net5.0\Domain.deps.json
+D:\hamed\pracitce\adminDashborad\adminWeb\Domain\bin\Debug\net5.0\Domain.dll
+D:\hamed\pracitce\adminDashborad\adminWeb\Domain\bin\Debug\net5.0\ref\Domain.dll
+D:\hamed\pracitce\adminDashborad\adminWeb\Domain\bin\Debug\net5.0\Domain.pdb
+D:\hamed\pracitce\adminDashborad\adminWeb\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\hamed\pracitce\adminDashborad\adminWeb\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\hamed\pracitce\adminDashborad\adminWeb\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\hamed\pracitce\adminDashborad\adminWeb\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\hamed\pracitce\adminDashborad\adminWeb\Domain\obj\Debug\net5.0\Domain.dll
+D:\hamed\pracitce\adminDashborad\adminWeb\Domain\obj\Debug\net5.0\ref\Domain.dll
+D:\hamed\pracitce\adminDashborad\adminWeb\Domain\obj\Debug\net5.0\Domain.pdb
